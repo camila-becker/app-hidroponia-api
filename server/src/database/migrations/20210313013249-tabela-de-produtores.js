@@ -31,7 +31,7 @@ module.exports = {
         type: Sequelize.STRING,
       },
       atividade: {
-        type: Sequelize.DATE,
+        type: Sequelize.STRING,
       },
       segmento: {
         type: Sequelize.STRING,

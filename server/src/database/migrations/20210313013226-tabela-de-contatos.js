@@ -118,7 +118,7 @@ module.exports = {
         type: Sequelize.STRING,
       },
       data_nascimento: {
-        type: Sequelize.DATEONLY,
+        type: Sequelize.STRING,
       },
       origem: {
         type: Sequelize.STRING,

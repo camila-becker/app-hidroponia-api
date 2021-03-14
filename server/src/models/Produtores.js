@@ -40,7 +40,7 @@ class Produtor extends Model {
         cultivares: DataTypes.STRING,
         metodo_cultivo: DataTypes.STRING,
         outro_metodo: DataTypes.STRING,
-        area_fiscal_total: DataTypes.STRING,
+        area_fisica_total: DataTypes.STRING,
         area_hidroponica: DataTypes.STRING,
         vol_producao_total: DataTypes.STRING,
         localizacao: DataTypes.STRING,
